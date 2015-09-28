@@ -6,7 +6,7 @@
         "Design Chemical"
     ],
     "description": "The plugin takes standard html nested lists and turns them into vertical accordion menus.",
-    "main": "js/jquery.dcjqaccordion.2.7.min.js",
+    "main": "js/dist.js",
     "keywords": [
         "js",
         "accordion"
